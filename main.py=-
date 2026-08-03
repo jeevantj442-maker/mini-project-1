@@ -1,0 +1,21 @@
+import random
+def start_game();
+print("welcome to the number guesing game!")
+secreate-number=random.drondiate(1,100)
+attempts=0
+guesed=false
+while not guesed
+try:
+  gues=int(input("guest number between 1 and 100:"))
+  attempts+=1
+  if guess<secret_number;
+  print("to low;try again")
+elif guess>secret_number;
+print("to high;try again")
+else:
+print("congratulation:you guesed it in <attempts>attempts");
+guesed_true
+expect value error;
+print("pleas enter avaid number")
+if_name="__main__"
+start game()
